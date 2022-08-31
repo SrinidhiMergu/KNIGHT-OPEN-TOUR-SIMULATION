@@ -1,9 +1,22 @@
-# Knight's Tour
+# Knight's Open Tour Simulation
 
-- We developed a simulation of knight's tour with the help of Warnsdorff's algorithm. 
-- The knight must visit every square without repeat for an m x m board
-- We mainly used object oriented programming and python
-- For python GUI, we used Pygame library as it contains all the necessary inbuilt functions
+Developed simulation of Knight's Tour with Warnsdorff's algorithm using Pygame library.
+The knight piece must visit every square without repeats in an m x m board.
+In Warnsdorff's Algorithm
+- Move the knight to the position which has the least possible moves. 
+- Keep visiting the unvisited squares till knight visits each square of the board.
 
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/67421239/174857657-eed67228-2d3d-4963-89f3-1e2746a85565.png">
+We used Object Oriented programming in python to write the code.
+For python GUI, we used Pygame library as it contains all the necessary inbuilt functions
+
+
+
+
+
+https://user-images.githubusercontent.com/67421239/187597643-bbb3bb7a-292a-4bff-8870-eea6b4d1d2f5.mp4
+
+
+
+
+
 
